@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **React**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **JavaScript, React**
 
 - 📫 How to reach me **23x10sid@gmail.com**
 
