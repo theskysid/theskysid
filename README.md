@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theskysid&show_icons=true&locale=en" alt="theskysid" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theskysid&" alt="theskysid" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theskysid&" alt="theskysid"/></p>
