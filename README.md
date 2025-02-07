@@ -4,21 +4,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theskysid" alt="theskysid" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rxsiddhant" target="_blank"><img src="https://img.shields.io/twitter/follow/rxsiddhant?logo=twitter&style=for-the-badge" alt="rxsiddhant" /></a> </p>
-
-- 🔭 I’m currently working on **ChatApp**
-
-- 🌱 I’m currently learning **SpringBoot,React**
-
-- 👯 I’m looking to collaborate on **ChatApp**
-
-- 🤝 I’m looking for help with **React**
-
-- 💬 Ask me about **JavaScript, React**
-
-- 📫 How to reach me **23x10sid@gmail.com**
-
-- ⚡ Fun fact **Sleep and movies fuel my creativity, but chess keeps my mind sharp for code battles!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
